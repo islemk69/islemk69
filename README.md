@@ -6,7 +6,7 @@ Je suis un passionné d'infrastructure, de systèmes Unix et d'automatisation. A
 
 ---
 
-### 🚀 Mon Stack Technique
+### 🚀 Stack Technique
 
 | Domaine | Technologies |
 | :--- | :--- |
