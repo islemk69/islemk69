@@ -48,6 +48,3 @@ Je suis un passionné d'infrastructure, de systèmes Unix et d'automatisation. A
 * **e-mail** : [kaismounislem@outlook.com]
 
 ---
-<p align="center">
-  <i>"L'automatisation n'est pas un luxe, c'est une nécessité."</i>
-</p>
