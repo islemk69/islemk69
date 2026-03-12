@@ -26,9 +26,7 @@ Je suis un passionné d'infrastructure, de systèmes Unix et d'automatisation. A
 
 ---
 
-### 📊 Statistiques & Activité
-
-C'est ici que la magie opère avec des graphiques dynamiques :
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=islemk69&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de islemk69" />
