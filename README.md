@@ -31,23 +31,23 @@ Je suis un passionné d'infrastructure, de systèmes Unix et d'automatisation. A
 C'est ici que la magie opère avec des graphiques dynamiques :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_ICI&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de TON_PSEUDO" />
+  <img src="https://github-readme-stats.vercel.app/api?username=islemk69&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de islemk69" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_ICI&layout=compact&theme=tokyonight&hide=html" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islemk69&layout=compact&theme=tokyonight&hide=html" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO_ICI&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islemk69&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Me contacter
 
-* **LinkedIn** : [Lien vers ton LinkedIn]
-* **Portfolio** : [Lien vers ton site si tu en as un]
+* **LinkedIn** : [https://fr.linkedin.com/in/islem-kaismoun]
+* **e-mail** : [kaismounislem@outlook.com]
 
 ---
 <p align="center">
